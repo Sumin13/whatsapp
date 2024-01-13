@@ -1,0 +1,15 @@
+@import "components/default-bar.css";
+
+@import "screens/updates.css";
+
+body {
+  font-family: "Open Sans", sans-serif;
+  color: #2e363e;
+  max-width: 100%;
+  background-color: #f2f1f6;
+}
+@media screen and (min-width: 80rem) {
+  .container {
+    margin: 1em 2em;
+  }
+}
