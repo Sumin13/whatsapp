@@ -1,6 +1,8 @@
 @import "components/default-bar.css";
+@import "components/status-bar.css";
 
 @import "screens/updates.css";
+@import "screens/calls.css";
 
 body {
   font-family: "Open Sans", sans-serif;

@@ -1,0 +1,10 @@
+.top {
+  display: flex;
+  justify-content: center;
+}
+.top__edit {
+  width: 33%;
+}
+.top__emo i {
+  width: 33%;
+}
