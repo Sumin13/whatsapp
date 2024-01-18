@@ -3,6 +3,8 @@
 
 @import "screens/updates.css";
 @import "screens/calls.css";
+@import "screens/chtas.css";
+@import "reset.css";
 
 body {
   font-family: "Open Sans", sans-serif;

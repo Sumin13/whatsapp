@@ -42,12 +42,3 @@
   font-size: 18px;
   opacity: 80%;
 }
-.red {
-  background-color: #ff3834;
-  width: 20px;
-  height: 20px;
-  border-radius: 10px;
-  position: relative;
-  left: 600px;
-  top: 70px;
-}
