@@ -2,3 +2,13 @@
   display: flex;
   justify-content: space-between;
 }
+.call-link {
+  display: flex;
+}
+.call-history {
+  display: flex;
+}
+.call-history__img img {
+  width: 100px;
+  height: 100px;
+}
