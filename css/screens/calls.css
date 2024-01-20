@@ -34,7 +34,7 @@
 .call-link__icon {
   color: #2f73c2;
   background-color: #e3e2e7;
-  margin: 10px;
+  margin: 13px;
   padding: 10px;
   border-radius: 50%;
 }
@@ -64,11 +64,29 @@
 .call-history__img img {
   width: 50px;
   height: 50px;
+  margin-left: 10px;
   border-radius: 25px;
+  overflow: hidden;
 }
 .search-bar {
   opacity: 0.8;
 }
 .search-bar i {
   padding-left: 7px;
+}
+.name {
+  padding-top: 3px;
+  position: relative;
+  left: -80px;
+  font-size: 18px;
+  font-weight: bold;
+}
+.outgoing {
+  position: relative;
+  left: -80px;
+  opacity: 80%;
+}
+.day {
+  margin-top: 18px;
+  opacity: 80%;
 }

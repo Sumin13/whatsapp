@@ -3,9 +3,10 @@
 
 @import "screens/updates.css";
 @import "screens/calls.css";
-@import "screens/chtas.css";
-@import "reset.css";
-
+@import "screens/chats.css";
+@import "screens/communities.css";
+@import "screens/settings.css";
+@import "screens/chatting.css";
 body {
   font-family: "Open Sans", sans-serif;
   color: #2e363e;

@@ -1,0 +1,52 @@
+.top-icons {
+  margin: 15px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+  color: #2f73c2;
+}
+.left :first-child {
+  padding-right: 20px;
+}
+.search-bar {
+  margin-bottom: 10px;
+}
+.chatname {
+  font-size: 18px;
+  font-weight: bold;
+}
+.chatcheck {
+  opacity: 80%;
+  padding-top: 5px;
+}
+.time {
+  opacity: 80%;
+}
+.first__middle {
+  position: relative;
+  left: -70px;
+}
+.second__middle {
+  position: relative;
+  left: -115px;
+}
+.third__middle {
+  position: relative;
+  left: 29px;
+}
+.fourth__middle {
+  position: relative;
+  left: 10px;
+}
+.fifth__middle {
+  position: relative;
+  left: 25px;
+}
+.sixth__middle {
+  position: relative;
+  left: -77px;
+}
+.seventh__middle {
+  position: relative;
+  left: -70px;
+}
