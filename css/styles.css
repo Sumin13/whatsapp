@@ -1,5 +1,6 @@
 @import "components/default-bar.css";
 @import "components/status-bar.css";
+@import "components/nomobile.css";
 
 @import "screens/updates.css";
 @import "screens/calls.css";

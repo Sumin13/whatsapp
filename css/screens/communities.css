@@ -4,6 +4,16 @@
   font-size: 200px;
   margin: 50px 0px 30px 0px;
   color: #71f38f;
+  animation: notificationAnimation 2s ease-in-out infinite;
+}
+
+@keyframes notificationAnimation {
+  from {
+    transform: translateY(-5px) rotateY(180deg);
+    to {
+      transform: none;
+    }
+  }
 }
 
 .stay {
@@ -27,4 +37,5 @@
   padding: 15px 0px;
   border-radius: 10px;
   color: white;
+  margin-bottom: 90px;
 }
